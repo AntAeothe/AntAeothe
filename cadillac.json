@@ -1,0 +1,15 @@
+{
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": 2019,
+    "origin": "USA",
+    "engine": "6.2L",
+    "wheels": 22,
+    "tyres": "285/45R22",
+    "color": "black",
+    "seets": 7,
+    "fueltank": "98L",
+    "transmission": "automatic 10-speed",
+    "maxspeed": "180km/h",
+    "BHP": 420
+}
